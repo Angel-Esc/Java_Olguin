@@ -4,7 +4,7 @@ public class OperadoresComparacion_027 {
         System.out.println("*** Operadores de Comparacion ***");
 
         int a = 5, b = 3;
-        
+
         //Igual a
         System.out.println("Resultado de a == b: " + (a == b));
         //diferente a
